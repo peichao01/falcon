@@ -1,0 +1,28 @@
+{
+  "name": "falcon",
+  "version": "0.0.1",
+  "description": "my blog",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/peichao01/falcon.git"
+  },
+  "keywords": [
+    "blog",
+    "node",
+    "falcon"
+  ],
+  "author": "chao2 <380692952@qq.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/peichao01/falcon/issues"
+  },
+  "homepage": "https://github.com/peichao01/falcon"
+}

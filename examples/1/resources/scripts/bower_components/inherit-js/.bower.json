@@ -1,0 +1,37 @@
+{
+  "name": "inherit-js",
+  "homepage": "https://github.com/peichao01/inherit-js",
+  "authors": [
+    "chao2 <380692952@qq.com>"
+  ],
+  "description": "inheritance for javascript",
+  "main": "inherit-js.js",
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "inherit",
+    "inheritance",
+    "javascript"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "_release": "fceae44443",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "fceae4444350680eb20cc305ff1a1dc56fc038ae"
+  },
+  "_source": "git://github.com/peichao01/inherit-js.git",
+  "_target": "*",
+  "_originalSource": "inherit-js",
+  "_direct": true
+}
