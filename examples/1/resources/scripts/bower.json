@@ -1,0 +1,10 @@
+{
+	"name":"falcon-example-1",
+	"verson":"0.0.1",
+	"main":"",
+	"ignore":[],
+	"dependencies":{
+		"EventEmitter-js":"latest",
+		"inherit-js":"latest"
+	}
+}
